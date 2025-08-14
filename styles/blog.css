@@ -1,7 +1,11 @@
 div {
-    background-color: rgb(108, 190, 238);
+    /* background-color: rgb(108, 190, 238); */
     padding: 20px;
     /* padding-top: 10px; */
     /* padding-bottom: 10px; */
     margin-bottom: 10px;
+    border-radius: 30px;
+    background: rgb(69, 110, 28);
+    margin-left: 20px;
+    /* border: 25px; */
 }
