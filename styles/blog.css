@@ -19,4 +19,5 @@ img {
     width: 300px;
     border: 5px solid rgb(230, 5, 24);
     margin-bottom: 10px;
+    /* border-bottom: none; */
 }
